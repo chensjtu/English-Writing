@@ -4,7 +4,7 @@
 
 
 
-## 利用ChatGPT润色的基本
+## 一、利用ChatGPT润色的基本
 
 - 先分部分段落润色，然后可以整体调整统一风格。
 
@@ -16,7 +16,7 @@
 
   
 
-## 润色指令
+## 二、润色指令
 
 This list of writing prompts are from [github-ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 
@@ -126,7 +126,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 
 
-## 使用官方ChatGPT
+## 三、使用官方ChatGPT
 
 网站为：https://chatgpt.com/，因为对香港暂时封闭，条件是需要有连通国外的🪜。
 
@@ -140,7 +140,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
    
 
-## 使用 API 的 System 预设
+## 四、使用 API 的 System 预设
 
 网站为：https://chatgpt.crazyang.com/ or https://chat.crazyang.com/，密码：chatgpt2024。同时记得模型选择为 `gpt-4o-mini`。
 
@@ -154,7 +154,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 ![image-20240823010958941](https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/202408230110199.png)
 
-## 使用 GPT Academic 网页
+## 五、使用 GPT Academic 网页
 
 网站为：https://github.com/binary-husky/gpt_academic
 
@@ -166,13 +166,13 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 
 
-## 其他工具
+## 六、其他工具
 
 - [Consensus](https://consensus.app/)：一个AI学术搜索引擎，可以帮你智能检索**真实的**参考文献。如果开通了ChatGPT Plus，则可以直接在对话中@consensus直接调用工具和润色。
 
 
 
-## 参考
+## 七、参考
 
 https://github.com/binary-husky/gpt_academic 63k stars
 
