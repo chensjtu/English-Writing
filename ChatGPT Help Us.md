@@ -128,9 +128,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 ## 三、使用官方ChatGPT
 
-网站为：https://chatgpt.com/，因为对香港暂时封闭，条件是需要有连通国外的🪜。
-
-
+网站为：https://chatgpt.com/。 因为对香港暂时封闭，条件是需要有连通国外的🪜。
 
 1. 直接新建对话然后输入：
 
@@ -142,7 +140,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 ## 四、使用 API 的 System 预设
 
-网站为：https://chatgpt.crazyang.com/ or https://chat.crazyang.com/，密码：chatgpt2024。同时记得模型选择为 `gpt-4o-mini`。
+自建网站为：https://chatgpt.crazyang.com/ or https://chat.crazyang.com/。同时记得模型选择为 `gpt-4o-mini`。
 
 
 
@@ -177,20 +175,3 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 https://github.com/binary-husky/gpt_academic 63k stars
 
 https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing 2.7k stars
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
