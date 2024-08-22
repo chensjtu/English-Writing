@@ -144,7 +144,7 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 
 
-在使用<u>chatgpt</u>时，可以新增一条system的对话，以固定系统角色，让接下来的所有对话都满足是润色的设定。
+在使用<u>chatgpt</u>时，可以新增一条system的对话，以固定系统角色，让接下来的所有对话都满足是润色的设定。复制以下内容：
 
 ```
 When tasked with rewriting or polishing content, provide at least three alternative versions or suggestions. This demonstrates your ability to offer different academic perspectives and improvements. The academic field is computer science.
