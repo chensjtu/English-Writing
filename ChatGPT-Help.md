@@ -126,6 +126,22 @@ Proofread the following text for spelling and grammatical errors and rewrite it 
 
 
 
+一些措辞：
+
+```
+更精确的措辞（More precise）：选择更精确的词汇，例如使用“generate”代替“produce”或“analyze”代替“look at”。
+更简练的表达（More concise）：消除不必要的词语和短语，使句子更加清晰、直接。
+更客观的语言（More objective）：删除主观性语言，以中立的方式呈现信息。
+更具体的描述（More specific）：提供更具体的细节，以支持论点或想法。
+更连贯的表达（More coherent）：确保句子组织良好，逻辑流畅。
+更一致的风格（More consistent）：确保句子所使用的语言和风格与论文的其余部分一致。
+更符合学术风格（More academic）：使用学术写作中常用的术语和短语，例如“furthermore”和“thus”。
+更正式的语法（More formal grammar）：使用正确的语法和句法，例如避免句子碎片或跑题的句子。
+更具细节的描述（More nuanced）：通过使用词语或短语来传达更复杂或微妙的含义，使句子更具细节。
+```
+
+
+
 ## 三、使用官方ChatGPT
 
 网站为：https://chatgpt.com/ 。因为对香港暂时封闭，条件是需要有连通国外的🪜。
@@ -155,6 +171,23 @@ When tasked with rewriting or polishing content, provide at least three alternat
 ![image-20240823010923024](https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/202408230109366.png)
 
 ![image-20240823010958941](https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/202408230110199.png)
+
+---
+
+2024年4月Nature上的润色指令建议是：
+
+```
+I'm writing a paper on [topic] for a leading [discipline] academic journal. What I tried to say in the following section is [specific point].
+Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.
+```
+
+对第一次的回复不满意
+
+```
+This isn't quite what I meant. Let's adjust this part.
+```
+
+
 
 ## 五、使用 GPT Academic 网页
 
