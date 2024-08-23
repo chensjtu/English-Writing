@@ -106,14 +106,14 @@ When tasked with rewriting or polishing content, provide at least three alternat
 
 ---
 
-2024年4月Nature上的润色指令建议是：
+**2024年4月Nature上的润色指令建议是：**
 
 ```
 I'm writing a paper on [topic] for a leading [discipline] academic journal. What I tried to say in the following section is [specific point].
 Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.
 ```
 
-对第一次的回复不满意
+**对第一次的回复不满意：**
 
 ```
 This isn't quite what I meant. Let's adjust this part.
