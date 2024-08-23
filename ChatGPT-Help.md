@@ -22,105 +22,37 @@ This list of writing prompts are from [github-ChatGPT Prompts for Academic Writi
 
 ```
 Rewrite this paragraph in an academic language: [PARAGRAPH]
-```
 
-```
 Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. [PARAGRAPH]
-```
 
-```
-Correct the grammar: [PARAGRAPH]
-```
-
-```
-What do you think of how this paragraph is written?:  [PARAGRAPH]
-```
-
-```
-What 3 points would you suggest to improve this paragraph?: [PARAGRAPH]
-```
-
-```
 Improve the style of my writing? [PARAGRAPHS]
-```
 
-```
 Improve the clarity and coherence of my writing [PARAGRAPHS]
-```
 
-```
 Improve the organization and structure of my paper [PARAGRAPHS]
-```
 
-```
-Provide feedback on this text and suggest areas for improvement [PARAGRAPHS]
-```
-
-```
 Can you improve this paragraph using passive voice: [PARAGRAPH]
-```
 
-```
 Can you improve this paragraph to make it more cohesive? [PARAGRAPH]
-```
 
-```
-Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new article in the same style, voice, and tone: [PARAGRAPHS]
-```
-
-```
-Please write a few paragraphs using the following list of points [LIST] 
-```
-
-```
 Give three variations of this sentence: [SENTENCE] 
 ```
 
 ```
-Write a transition sentence to connect the following two paragraphs: [PARAGRAPH1] [PARAPGRAPH2]
-```
+Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new article in the same style, voice, and tone: [PARAGRAPHS]
 
-```
+Please write a few paragraphs using the following list of points [LIST] 
+
+Write a transition sentence to connect the following two paragraphs: [PARAGRAPH1] [PARAPGRAPH2]
+
 Provide effective transitions between paragraphs [PARAGRAPH1] [PARAGRAPH2]
 ```
 
 ```
-Rewrite this paragraph as an introduction: [PARAGRAPH]
-```
-
-```
-Rewrite this paragraph as a conclusion: [PARAGRAPH]
-```
-
-```
-Write a counterargument to the following claim: [PARAGRAPH]
-```
-
-```
-Rewrite this in an academic voice: [PARAGRAPH]
-```
-
-```
-Expand these notes: [PARAGRAPH]
-```
-
-```
-Provide me a list of words and phrases which were repeatedly / more than 3 times used: [PARAGRAPHS]
-```
-
-```
 Provide me a list of synonyms for [PARAGRAPH] and evaluate them in the context of [PARAGRAPH]
-```
 
-```
 Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a focus on grammar and punctuation.
-```
 
-```
-In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
-```
-
-```
 Proofread the following text for spelling and grammatical errors and rewrite it with corrections. [PARAGRAPHS] 
 ```
 
